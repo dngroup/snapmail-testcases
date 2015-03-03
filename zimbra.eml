@@ -1,0 +1,332 @@
+Return-Path: corinne.pauthier@u-bordeaux.fr
+Received: from v-zimmbx05.srv.u-bordeaux.fr (LHLO
+ v-zimmbx05.srv.u-bordeaux.fr) (147.210.218.47) by
+ v-zimmbx05.srv.u-bordeaux.fr with LMTP; Tue, 24 Feb 2015 11:24:51 +0100
+ (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by v-zimmbx05.srv.u-bordeaux.fr (Postfix) with ESMTP id 4980D21A01AB
+	for <nicolas.herbaut@u-bordeaux.fr>; Tue, 24 Feb 2015 11:24:51 +0100 (CET)
+X-Spam-Flag: NO
+X-Spam-Score: -0.878
+X-Spam-Level:
+X-Spam-Status: No, score=-0.878 tagged_above=-10 required=6.6
+	tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, MISSING_HEADERS=1.021,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no autolearn_force=no
+Received: from v-zimmbx05.srv.u-bordeaux.fr ([127.0.0.1])
+	by localhost (v-zimmbx05.srv.u-bordeaux.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id U7Bnl1EV_MXq for <nicolas.herbaut@u-bordeaux.fr>;
+	Tue, 24 Feb 2015 11:24:50 +0100 (CET)
+Received: from mta-in01.u-bordeaux.fr (v-mtain01.u-bordeaux.fr [147.210.215.17])
+	by v-zimmbx05.srv.u-bordeaux.fr (Postfix) with ESMTPS id 1622C21A1CB4
+	for <nicolas.herbaut@u-bordeaux.fr>; Tue, 24 Feb 2015 11:24:50 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by mta-in01.u-bordeaux.fr (Postfix) with ESMTP id 02B6E1C0003;
+	Tue, 24 Feb 2015 11:24:50 +0100 (CET)
+X-Virus-Scanned: amavisd-new at u-bordeaux.fr
+Received: from mta-in01.u-bordeaux.fr ([127.0.0.1])
+	by localhost (v-mtain01.u-bordeaux.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id Z2EZ3672xyDz; Tue, 24 Feb 2015 11:24:49 +0100 (CET)
+Received: from v-zimmta01.u-bordeaux.fr (v-zimmta01.u-bordeaux.fr [147.210.215.19])
+	by mta-in01.u-bordeaux.fr (Postfix) with ESMTPS id BDD831C0002;
+	Tue, 24 Feb 2015 11:24:49 +0100 (CET)
+Received: from v-zimmta01.u-bordeaux.fr (localhost [127.0.0.1])
+	by v-zimmta01.u-bordeaux.fr (Postfix) with ESMTP id A00AA28A;
+	Tue, 24 Feb 2015 11:24:49 +0100 (CET)
+Received: from v-zimmbx03.srv.u-bordeaux.fr (v-zimmbx03.srv.u-bordeaux.fr [147.210.218.45])
+	by v-zimmta01.u-bordeaux.fr (Postfix) with ESMTP id 57D7B24A;
+	Tue, 24 Feb 2015 11:24:49 +0100 (CET)
+Date: Tue, 24 Feb 2015 11:24:49 +0100 (CET)
+From: Corinne Pauthier <corinne.pauthier@u-bordeaux.fr>
+Cc: Alan Charpentier <alan.charpentier@u-bordeaux.fr>, 
+	Sebastien Guisset <sebastien.guisset@u-bordeaux.fr>, 
+	Nicolas Herbaut <nicolas.herbaut@u-bordeaux.fr>
+Message-ID: <1111515686.2584929.1424773489173.JavaMail.zimbra@u-bordeaux.fr>
+In-Reply-To: <1155323972.3333285.1424085949534.JavaMail.zimbra@u-bordeaux.fr>
+References: <1642728411.486877.1422437000815.JavaMail.zimbra@u-bordeaux.fr> <241168813.401686.1422608005566.JavaMail.zimbra@u-bordeaux.fr> <1507714730.664002.1423038506340.JavaMail.zimbra@u-bordeaux.fr> <963677030.633956.1423556360541.JavaMail.zimbra@u-bordeaux.fr> <1155323972.3333285.1424085949534.JavaMail.zimbra@u-bordeaux.fr>
+Subject: =?utf-8?Q?Re:_=C3=A8ime_Rappel_Urgent_:_Co?=
+ =?utf-8?Q?nvention_relative_=C3=A0_l'activ?=
+ =?utf-8?Q?it=C3=A9_compl=C3=A9mentaire_Bordeaux?=
+ =?utf-8?Q?_INP_-_2014/2015_-_Urgent_-?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2584928_1290528606.1424773489172"
+Disposition-Notification-To: Corinne Pauthier <corinne.pauthier@u-bordeaux.fr>
+X-Priority: 1
+Importance: high
+X-Originating-IP: [147.210.236.89]
+X-Mailer: Zimbra 8.6.0_GA_1153 (ZimbraWebClient - FF31 (Win)/8.6.0_GA_1153)
+Thread-Topic: Convention relative =?utf-8?Q?=C3=A0_l=27activit=C3=A9_compl=C3=A9mentaire?= Bordeaux INP - 2014/2015 - Urgent -
+Thread-Index: oFjW48Biu1W1wurydsaBaWVu0JyJXKWwUHWxXoOz7TfPCi4dDywaF21HyS+yg70=
+X-Virus-Scanned: ClamAV using ClamSMTP
+
+------=_Part_2584928_1290528606.1424773489172
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Bonjour,=20
+
+Je vous indique que seul votre dossier n'est pas =C3=A0 jour aupr=C3=A8s de=
+ nos services et ceux de Bordeaux INP.=20
+
+Je vous remercie de bien vouloir passer signer votre convention pour permet=
+tre la r=C3=A9gularisation.=20
+
+Bien cordialement=20
+
+
+Corinne PAUTHIER=20
+Chef du bureau recherche - Service des ressources humaines PAC TALENCE=20
+Direction de la gestion des personnels et des relations sociales=20
+
+
+
+351 cours de la Lib=C3=A9ration=20
+B=C3=A2timent A33=20
+CS 10004 - 33405 TALENCE Cedex=20
+T=C3=A9l. : 05 40 00 24 45=20
+www.u-bordeaux.fr=20
+
+
+De: "Corinne Pauthier" <corinne.pauthier@u-bordeaux.fr>=20
+Envoy=C3=A9: Lundi 16 F=C3=A9vrier 2015 12:25:49=20
+Objet: Re: =C3=A8ime Rappel Urgent : Convention relative =C3=A0 l'activit=
+=C3=A9 compl=C3=A9mentaire Bordeaux INP - 2014/2015 - Urgent -=20
+
+Bonjour,=20
+
+Je vous remercie de tenir compte de ce rappel et de l'urgence de votre sign=
+ature pour r=C3=A9gulariser votre dossier et votre situation aupr=C3=A8s de=
+ Bordeaux INP.=20
+
+Vous bloquez l'ensemble des dossiers d'enseignement Bordeaux INP 2014/2015.=
+=20
+
+Bien cordialement=20
+
+
+
+
+
+
+
+
+Corinne PAUTHIER=20
+Chef du bureau recherche - Service des ressources humaines PAC TALENCE=20
+Direction de la gestion des personnels et des relations sociales=20
+
+
+
+351 cours de la Lib=C3=A9ration=20
+B=C3=A2timent A33=20
+CS 10004 - 33405 TALENCE Cedex=20
+T=C3=A9l. : 05 40 00 24 45=20
+www.u-bordeaux.fr=20
+
+
+De: "Corinne Pauthier" <corinne.pauthier@u-bordeaux.fr>=20
+Envoy=C3=A9: Mardi 10 F=C3=A9vrier 2015 09:19:20=20
+Objet: Re: 3=C3=A8me Rappel Urgent : Convention relative =C3=A0 l'activit=
+=C3=A9 compl=C3=A9mentaire Bordeaux INP - 2014/2015 - Urgent -=20
+
+Bonjour,=20
+
+Je vous remercie de tenir compte de ce rappel et de l'urgence de votre sign=
+ature pour r=C3=A9gulariser votre dossier et votre situation aupr=C3=A8s de=
+ Bordeaux INP.=20
+
+Bien cordialement=20
+
+
+
+
+
+
+
+
+Corinne PAUTHIER=20
+Chef du bureau recherche - Service des ressources humaines PAC TALENCE=20
+Direction de la gestion des personnels et des relations sociales=20
+
+
+
+351 cours de la Lib=C3=A9ration=20
+B=C3=A2timent A33=20
+CS 10004 - 33405 TALENCE Cedex=20
+T=C3=A9l. : 05 40 00 24 45=20
+www.u-bordeaux.fr=20
+
+
+De: "Corinne Pauthier" <corinne.pauthier@u-bordeaux.fr>=20
+Envoy=C3=A9: Mercredi 4 F=C3=A9vrier 2015 09:28:26=20
+Objet: 2=C3=A8me Rappel : Convention relative =C3=A0 l'activit=C3=A9 compl=
+=C3=A9mentaire Bordeaux INP - 2014/2015 - Urgent -=20
+
+Bonjour,=20
+
+Dans le cadre de votre activit=C3=A9 compl=C3=A9mentaire d'enseignement aup=
+r=C3=A8s de Bordeaux INP, la convention est =C3=A9tablie et sign=C3=A9e par=
+ le Pr=C3=A9sident de l'Universit=C3=A9 de Bordeaux.=20
+
+Je vous remercie de passer =C3=A0 mon bureau (B=C3=A2t A33/Bureau 5/RDC) po=
+ur signer ce document, afin de le transmettre dans les plus brefs d=C3=A9la=
+is =C3=A0 Bordeaux INP pour signature.=20
+
+Je vous remercie de bien vouloir passer tenir compte de l'urgence de cette =
+signature, vous retardez l'ensemble de l'envoi des conventions aupr=C3=A8s =
+de Bordeaux INP.=20
+
+Je reste =C3=A0 votre =C3=A9coute pour toute interrogation.=20
+
+Bien cordialement=20
+
+
+
+
+
+
+
+Corinne PAUTHIER=20
+Chef du bureau recherche - Service des ressources humaines PAC TALENCE=20
+Direction de la gestion des personnels et des relations sociales=20
+
+
+
+351 cours de la Lib=C3=A9ration=20
+B=C3=A2timent A33=20
+CS 10004 - 33405 TALENCE Cedex=20
+T=C3=A9l. : 05 40 00 24 45=20
+www.u-bordeaux.fr=20
+
+
+
+------=_Part_2584928_1290528606.1424773489172
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"font-family: arial, helvetica, sans-serif; font-s=
+ize: 10pt; color: #000000"><div>Bonjour,<br></div><div><br data-mce-bogus=
+=3D"1"></div><div>Je vous indique que seul votre dossier n'est pas =C3=A0 j=
+our aupr=C3=A8s de nos services et ceux de Bordeaux INP.<br data-mce-bogus=
+=3D"1"></div><div><br data-mce-bogus=3D"1"></div><div>Je vous remercie de b=
+ien vouloir passer signer votre convention pour permettre la r=C3=A9gularis=
+ation.<br data-mce-bogus=3D"1"></div><div><br data-mce-bogus=3D"1"></div><d=
+iv>Bien cordialement <br></div><div data-marker=3D"__SIG_PRE__"><div><img s=
+aveddisplaymode=3D"" src=3D"http://www.u-bordeaux.fr/signature-mail/logo_ub=
+x.gif" style=3D"border: 0px none;" alt=3D"Universit=C3=A9 de Bordeaux" data=
+-mce-src=3D"http://www.u-bordeaux.fr/signature-mail/logo_ubx.gif" data-mce-=
+style=3D"border: 0px none;"></div><div><p style=3D"font-family: arial,sans-=
+serif; font-size: 13px; color: #009de0; line-height: 17px; margin: 0px;" da=
+ta-mce-style=3D"font-family: arial,sans-serif; font-size: 13px; color: #009=
+de0; line-height: 17px; margin: 0px;"><span style=3D"font-weight: bold;" da=
+ta-mce-style=3D"font-weight: bold;"><a href=3D"mailto:" style=3D"color: #00=
+9de0; text-decoration: none;" target=3D"_blank" data-mce-href=3D"mailto:" d=
+ata-mce-style=3D"color: #009de0; text-decoration: none;">Corinne PAUTHIER</=
+a></span><br>Chef du bureau recherche - Service des ressources humaines PAC=
+ TALENCE<br>Direction de la gestion des personnels et des relations sociale=
+s<br></p><div><br></div><p style=3D"font-family: arial,sans-serif; font-siz=
+e: 13px; color: #009de0; line-height: 17px; margin: 0px;" data-mce-style=3D=
+"font-family: arial,sans-serif; font-size: 13px; color: #009de0; line-heigh=
+t: 17px; margin: 0px;">351 cours de la Lib=C3=A9ration<br> B=C3=A2timent A3=
+3<br> CS <span class=3D"Object" role=3D"link" id=3D"OBJ_PREFIX_DWT198_com_z=
+imbra_phone"><a href=3D"callto:10004%20-%2033405" onclick=3D"window.top.Com=
+_Zimbra_Phone.unsetOnbeforeunload()" data-mce-href=3D"callto:10004%20-%2033=
+405">10004 - 33405</a></span> TALENCE Cedex<br>T=C3=A9l. : <span class=3D"O=
+bject" role=3D"link" id=3D"OBJ_PREFIX_DWT199_com_zimbra_phone"><a href=3D"c=
+allto:05%2040%2000%2024%2045" onclick=3D"window.top.Com_Zimbra_Phone.unsetO=
+nbeforeunload()" data-mce-href=3D"callto:05%2040%2000%2024%2045">05 40 00 2=
+4 45</a></span><br><span class=3D"Object" role=3D"link" id=3D"OBJ_PREFIX_DW=
+T200_com_zimbra_url"><span class=3D"Object" role=3D"link" id=3D"OBJ_PREFIX_=
+DWT241_com_zimbra_url"><a href=3D"http://www.u-bordeaux.fr" style=3D"color:=
+ #009de0; text-decoration: none;" target=3D"_blank" data-mce-href=3D"http:/=
+/www.u-bordeaux.fr" data-mce-style=3D"color: #009de0; text-decoration: none=
+;">www.u-bordeaux.fr</a></span></span><br data-mce-bogus=3D"1"></p></div></=
+div><br><hr id=3D"zwchr" data-marker=3D"__DIVIDER__"><div data-marker=3D"__=
+HEADERS__"><b>De: </b>"Corinne Pauthier" &lt;corinne.pauthier@u-bordeaux.fr=
+&gt;<br><b>Envoy=C3=A9: </b>Lundi 16 F=C3=A9vrier 2015 12:25:49<br><b>Objet=
+: </b>Re: =C3=A8ime Rappel Urgent : Convention relative =C3=A0 l'activit=C3=
+=A9 compl=C3=A9mentaire Bordeaux INP - 2014/2015 - Urgent -<br></div><br><d=
+iv data-marker=3D"__QUOTED_TEXT__"><div style=3D"font-family: times new rom=
+an, new york, times, serif; font-size: 12pt; color: #000000"><div><div>Bonj=
+our,</div><br><div>Je vous remercie de tenir compte de ce rappel et de l'ur=
+gence de votre signature pour r=C3=A9gulariser votre dossier et votre situa=
+tion aupr=C3=A8s de Bordeaux INP.</div><br><div>Vous bloquez l'ensemble des=
+ dossiers d'enseignement Bordeaux INP 2014/2015.<br></div><br><div>Bien cor=
+dialement</div><span></span><img></div><div><span></span><div><p style=3D"f=
+ont-family: Arial,sans-serif; font-size: 13px; color: #009de0; line-height:=
+ 17px; margin: 0px;"><img src=3D"https://webmel.u-bordeaux.fr/service/home/=
+%7E/?auth=3Dco&amp;id=3D1195&amp;part=3D1.2.2"><br></p><div><a href=3D"http=
+://www.u-bordeaux.fr" title=3D"Universit=C3=A9 de Bordeaux" target=3D"_blan=
+k"><img style=3D"border: 0;" alt=3D"Universit=C3=A9 de Bordeaux"></a><br></=
+div><p></p><p style=3D"font-family: Arial,sans-serif; font-size: 13px; colo=
+r: #009de0; line-height: 17px; margin: 0px;"><strong><a href=3D"mailto:" st=
+yle=3D"color: #009de0; text-decoration: none;" target=3D"_blank">Corinne PA=
+UTHIER</a></strong><br>Chef du bureau recherche - Service des ressources hu=
+maines PAC TALENCE<br>Direction de la gestion des personnels et des relatio=
+ns sociales<br></p><br><p style=3D"font-family: Arial,sans-serif; font-size=
+: 13px; color: #009de0; line-height: 17px; margin: 0px;">351 cours de la Li=
+b=C3=A9ration<br> B=C3=A2timent A33<br> CS 10004 - 33405 TALENCE Cedex<br>T=
+=C3=A9l. : 05 40 00 24 45<br><a href=3D"http://www.u-bordeaux.fr" style=3D"=
+color: #009de0; text-decoration: none;" target=3D"_blank">www.u-bordeaux.fr=
+</a><br></p></div><span></span><br></div><hr id=3D"zwchr"><div style=3D"col=
+or:#000;font-weight:normal;font-style:normal;text-decoration:none;font-fami=
+ly:Helvetica,Arial,sans-serif;font-size:12pt;"><b>De: </b>"Corinne Pauthier=
+" &lt;corinne.pauthier@u-bordeaux.fr&gt;<br><b>Envoy=C3=A9: </b>Mardi 10 F=
+=C3=A9vrier 2015 09:19:20<br><b>Objet: </b>Re: 3=C3=A8me Rappel Urgent : Co=
+nvention relative =C3=A0 l'activit=C3=A9 compl=C3=A9mentaire Bordeaux INP -=
+ 2014/2015 - Urgent -<br><br><div style=3D"font-family: times new roman, ne=
+w york, times, serif; font-size: 12pt; color: #000000"><div>Bonjour,<br></d=
+iv><br><div>Je vous remercie de tenir compte de ce rappel et de l'urgence d=
+e votre signature pour r=C3=A9gulariser votre dossier et votre situation au=
+pr=C3=A8s de Bordeaux INP.<br></div><br><div>Bien cordialement <br></div><d=
+iv><span></span><div><p style=3D"font-family: Arial,sans-serif; font-size: =
+13px; color: #009de0; line-height: 17px; margin: 0px;"><img src=3D"https://=
+webmel.u-bordeaux.fr/service/home/%7E/?auth=3Dco&amp;id=3D1195&amp;part=3D1=
+.2.2"><br></p><div><a href=3D"http://www.u-bordeaux.fr" title=3D"Universit=
+=C3=A9 de Bordeaux" target=3D"_blank"><img style=3D"border: 0;" alt=3D"Univ=
+ersit=C3=A9 de Bordeaux"></a><br></div><p></p><p style=3D"font-family: Aria=
+l,sans-serif; font-size: 13px; color: #009de0; line-height: 17px; margin: 0=
+px;"><strong><a href=3D"mailto:" style=3D"color: #009de0; text-decoration: =
+none;" target=3D"_blank">Corinne PAUTHIER</a></strong><br>Chef du bureau re=
+cherche - Service des ressources humaines PAC TALENCE<br>Direction de la ge=
+stion des personnels et des relations sociales<br></p><br><p style=3D"font-=
+family: Arial,sans-serif; font-size: 13px; color: #009de0; line-height: 17p=
+x; margin: 0px;">351 cours de la Lib=C3=A9ration<br> B=C3=A2timent A33<br> =
+CS 10004 - 33405 TALENCE Cedex<br>T=C3=A9l. : 05 40 00 24 45<br><a href=3D"=
+http://www.u-bordeaux.fr" style=3D"color: #009de0; text-decoration: none;" =
+target=3D"_blank">www.u-bordeaux.fr</a><br></p></div><span></span><br></div=
+><hr id=3D"zwchr"><div style=3D"color:#000;font-weight:normal;font-style:no=
+rmal;text-decoration:none;font-family:Helvetica,Arial,sans-serif;font-size:=
+12pt;"><b>De: </b>"Corinne Pauthier" &lt;corinne.pauthier@u-bordeaux.fr&gt;=
+<br><b>Envoy=C3=A9: </b>Mercredi 4 F=C3=A9vrier 2015 09:28:26<br><b>Objet: =
+</b>2=C3=A8me Rappel : Convention relative =C3=A0 l'activit=C3=A9 compl=C3=
+=A9mentaire Bordeaux INP - 2014/2015 - Urgent -<br><br><div style=3D"font-f=
+amily: times new roman, new york, times, serif; font-size: 12pt; color: #00=
+0000"><div><div><div>Bonjour,</div><br><div>Dans le cadre de votre activit=
+=C3=A9 compl=C3=A9mentaire d'enseignement aupr=C3=A8s de Bordeaux INP, la c=
+onvention est =C3=A9tablie et sign=C3=A9e par le Pr=C3=A9sident de l'Univer=
+sit=C3=A9 de Bordeaux.</div><br><div>Je vous remercie de passer =C3=A0 mon =
+bureau (B=C3=A2t A33/Bureau 5/RDC) pour signer ce document, afin de le tran=
+smettre dans les plus brefs d=C3=A9lais =C3=A0 Bordeaux INP pour signature.=
+</div><br><div><div>Je vous remercie de bien vouloir passer tenir compte de=
+ <u>l'urgence</u> de cette signature, vous retardez l'ensemble de l'envoi d=
+es conventions aupr=C3=A8s de Bordeaux INP.</div></div><br><div>Je reste =
+=C3=A0 votre =C3=A9coute pour toute interrogation.</div><br><div>Bien cordi=
+alement <br></div><span></span><img></div><img src=3D"https://webmel.u-bord=
+eaux.fr/service/home/%7E/?auth=3Dco&amp;id=3D1195&amp;part=3D1.2.2"><br></d=
+iv><div><div><br><div><a href=3D"http://www.u-bordeaux.fr" title=3D"Univers=
+it=C3=A9 de Bordeaux" target=3D"_blank"><img style=3D"border: 0;" alt=3D"Un=
+iversit=C3=A9 de Bordeaux"></a><br></div><p></p><p style=3D"font-family: Ar=
+ial,sans-serif; font-size: 13px; color: #009de0; line-height: 17px; margin:=
+ 0px;"><strong><a href=3D"mailto:" style=3D"color: #009de0; text-decoration=
+: none;" target=3D"_blank">Corinne PAUTHIER</a></strong><br>Chef du bureau =
+recherche - Service des ressources humaines PAC TALENCE<br>Direction de la =
+gestion des personnels et des relations sociales<br></p><br><p style=3D"fon=
+t-family: Arial,sans-serif; font-size: 13px; color: #009de0; line-height: 1=
+7px; margin: 0px;">351 cours de la Lib=C3=A9ration<br> B=C3=A2timent A33<br=
+> CS 10004 - 33405 TALENCE Cedex<br>T=C3=A9l. : 05 40 00 24 45<br><a href=
+=3D"http://www.u-bordeaux.fr" style=3D"color: #009de0; text-decoration: non=
+e;" target=3D"_blank">www.u-bordeaux.fr</a><br></p></div><span></span></div=
+></div></div><br></div></div></div><br></div></div></body></html>
+------=_Part_2584928_1290528606.1424773489172--
+
