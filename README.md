@@ -1,0 +1,1 @@
+# snapmail-testcases
