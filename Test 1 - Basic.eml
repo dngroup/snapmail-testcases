@@ -1,0 +1,55 @@
+Message-ID: <54F9D967.9090307@gmail.com>
+Date: Fri, 06 Mar 2015 17:44:23 +0100
+From: Snapmail <snapmailproject@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+MIME-Version: 1.0
+To: snapmailadress@gmail.com
+Subject: Test 1 - Basic
+Content-Type: multipart/alternative;
+ boundary="------------070102040301090304070205"
+X-Antivirus: avast! (VPS 150306-0, 06/03/2015), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------070102040301090304070205
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Texte principal : Normal
+
+Paragraphe 1 : Agency FB
+
+      *
+
+
+          /Titre 1 : Bell MT + Italique + Puce + Retrait/
+
+:-)
+
+--------------070102040301090304070205
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Test 1 - Basic</title>
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Texte principal : Normal<br>
+    <br>
+    <p><font face="Agency FB">Paragraphe 1 : Agency FB<br>
+      </font></p>
+    <blockquote>
+      <ul>
+        <li>
+          <h1><i><font face="Agency FB"><font face="Bell MT">Titre 1 :
+                  Bell MT + Italique + Puce + Retrait</font></font></i></h1>
+        </li>
+      </ul>
+    </blockquote>
+    <span class="moz-smiley-s1"><span> :-) </span></span><br>
+  </body>
+</html>
+
+--------------070102040301090304070205--
